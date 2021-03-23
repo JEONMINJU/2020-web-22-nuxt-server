@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/detail/1", (function(a,b,c){return {data:[{list:{id:a,title:b,content:"\u003Cp\u003Eaaa\u003C\u002Fp\u003E",writer:b,created:"2021-03-04T01:12:16.000Z",orifile:c,savefile:c,readnum:0,uid:a,wdate:"2021-03-04 10:12:16"}}],fetch:{},mutations:[]}}(1,"aaa",null)));
